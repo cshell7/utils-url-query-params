@@ -1,5 +1,5 @@
 {
-  "name": "utils-url-query-params",
+  "name": "@c-shell/utils-url-query-params",
   "version": "1.0.0",
   "description": "Utils for working with url query params",
   "main": "cjs/index.js",
